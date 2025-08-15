@@ -1,3 +1,6 @@
+*://sorularlaislamiyet.com/*
+*://belgelerlegercektarih.com/*
+*://www.akasyam.com/*
 /\.ulketv\./
 /\.gzt\./ 
 /\.ensonhaber\./
